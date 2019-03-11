@@ -1,0 +1,5 @@
+gene.NCAPH
+gene.KRT6A
+gene.KRT6B
+gene.BUB1B
+lnc.LINC01206

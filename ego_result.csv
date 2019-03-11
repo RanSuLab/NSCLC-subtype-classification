@@ -1,0 +1,35 @@
+Category,ID,Term,Genes,adj_pval
+MF,GO:0005200,structural constituent of cytoskeleton,"KRT16,KRT6B",0.022551409
+BP,GO:0070268,cornification,"DSG3,KRT16,KRT6A,KRT6B,SPRR1B",1.28E-07
+BP,GO:0030216,keratinocyte differentiation,"CERS3,DSG3,KRT16,KRT6A,KRT6B,SPRR1B",1.28E-07
+BP,GO:0009913,epidermal cell differentiation,"CERS3,DSG3,KRT16,KRT6A,KRT6B,SPRR1B",2.12E-07
+BP,GO:0043588,skin development,"CERS3,DSG3,KRT16,KRT6A,KRT6B,SPRR1B",4.23E-07
+BP,GO:0008544,epidermis development,"CERS3,DSG3,KRT16,KRT6A,KRT6B,SPRR1B",6.22E-07
+BP,GO:0031424,keratinization,"DSG3,KRT16,KRT6A,KRT6B,SPRR1B",9.09E-07
+BP,GO:0045104,intermediate filament cytoskeleton organization,"KRT16,KRT6A",0.003539266
+BP,GO:0045103,intermediate filament-based process,"KRT16,KRT6A",0.003539266
+BP,GO:0070192,chromosome organization involved in meiotic cell cycle,"BUB1B,NCAPH",0.007527013
+BP,GO:0045132,meiotic chromosome segregation,"BUB1B,NCAPH",0.011322676
+BP,GO:0000070,mitotic sister chromatid segregation,"BUB1B,NCAPH",0.026531213
+BP,GO:0140013,meiotic nuclear division,"BUB1B,NCAPH",0.035036357
+BP,GO:1903046,meiotic cell cycle process,"BUB1B,NCAPH",0.036934518
+BP,GO:0007135,meiosis II,BUB1B,0.046860261
+BP,GO:0070601,centromeric sister chromatid cohesion,BUB1B,0.046860261
+BP,GO:0000819,sister chromatid segregation,"BUB1B,NCAPH",0.046860261
+BP,GO:0051321,meiotic cell cycle,"BUB1B,NCAPH",0.048289762
+BP,GO:0140014,mitotic nuclear division,"BUB1B,NCAPH",0.049162458
+BP,GO:0007076,mitotic chromosome condensation,NCAPH,0.049162458
+BP,GO:0051546,keratinocyte migration,KRT16,0.049162458
+CC,GO:0005882,intermediate filament,"KRT16,KRT6A,KRT6B",0.002766375
+CC,GO:0045111,intermediate filament cytoskeleton,"KRT16,KRT6A,KRT6B",0.002766375
+CC,GO:0001533,cornified envelope,"DSG3,SPRR1B",0.004334656
+CC,GO:0000794,condensed nuclear chromosome,"BUB1B,NCAPH",0.005949722
+CC,GO:0045095,keratin filament,"KRT6A,KRT6B",0.005949722
+CC,GO:0000793,condensed chromosome,"BUB1B,NCAPH",0.020204128
+CC,GO:0000778,condensed nuclear chromosome kinetochore,BUB1B,0.020204128
+CC,GO:0000940,condensed chromosome outer kinetochore,BUB1B,0.020204128
+CC,GO:0005680,anaphase-promoting complex,BUB1B,0.029560809
+CC,GO:0000780,"condensed nuclear chromosome, centromeric region",BUB1B,0.029560809
+CC,GO:0030057,desmosome,DSG3,0.030515781
+CC,GO:0051233,spindle midzone,BUB1B,0.034635766
+CC,GO:0000152,nuclear ubiquitin ligase complex,BUB1B,0.041163481

@@ -1,0 +1,15 @@
+gene.CALML3
+gene.CERS3
+gene.DSG3
+gene.KRT16
+gene.KRT31
+gene.KRT6A
+gene.KRT6B
+gene.PERP
+gene.SPRR1B
+gene.TMPRSS11A
+lnc.LINC01206
+gene.BUB1B
+gene.NCAPH
+
+
